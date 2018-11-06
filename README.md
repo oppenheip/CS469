@@ -1,1 +1,1 @@
-Priscilla Oppenheimer at Southern Oregon Unvierstiy created these slides to teach Systems Analysis. 
+Priscilla Oppenheimer at Southern Oregon University created these slides to teach Systems Analysis. 
